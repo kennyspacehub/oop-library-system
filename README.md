@@ -1,3 +1,9 @@
+# Name: Oroleye Kehinde
+# Course code: CSC 825
+# PG Application No: PG202454105206
+
+---
+
 # Library Management System 
 
 A Python project that demonstrates the **four core OOP concepts**:
